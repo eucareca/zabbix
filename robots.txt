@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /zabbix/
+Sitemap: https://eucareca.github.io/zabbix/sitemap.xml
